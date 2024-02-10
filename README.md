@@ -5,6 +5,7 @@ Projeto feito para fins educacionais.
 # Tecnologias:
  - HTML
  - CSS
+ - JavaScript
 
 # IMAGEM: 
 
